@@ -1,2 +1,3 @@
-# bot
-A simple discord bot
+# Random Puppy
+
+How to use random-puppy
