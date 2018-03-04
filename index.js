@@ -3,7 +3,7 @@ const Discord = require('discord.js');
 //Defined it as client
 const client = new Discord.Client();
 
-const token = 'Inser Bot Token'
+const token = 'Insert Bot Token'
 
 //Insert bot prefix
 const prefix = '=='
